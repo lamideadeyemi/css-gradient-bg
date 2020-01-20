@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: .1em;
+  background: linear-gradient(to right, red, orange);
+}
+
+main {
+  max-width: 35%;
+  background-color: whitesmoke;
+  padding: 2rem;
+  margin: 50px auto 0;
+  border-radius: 10px;
+  text-align: center;
+}
